@@ -215,8 +215,8 @@ def scrape_multiple_accounts(account_list, fb_account, fb_pwd, driver_path, days
 if __name__ == "__main__":
     facebook_user_name = "AWMemorial"  
     
-    fb_account = "basimmirage372@gmail.com" 
-    fb_pwd = "mirage1122!" 
+    fb_account = ""
+    fb_pwd = "" 
     driver_path = r"C:\Users\hp\Downloads\Hassaan\chromedriver-win64\chromedriver.exe"
     
     days_limit = 200  
